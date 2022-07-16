@@ -4,7 +4,8 @@ Data Normalization and Denormalization.
 Types of Table; Permanent and Continous activities table.
 Types of Schema; star and snow falkes schema.
 Effect of redundacies on data modelling.
-
+Types of Keys; Primary, Unique and Foreign key.
+Importance of Foreign key in Data modelling.
 ---
 
 #Data Sourcing
